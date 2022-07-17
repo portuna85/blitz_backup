@@ -2,6 +2,6 @@
 /.gradle/
 /.idea/
 /.note/
+/build/
 
 application-oauth.properties
-application-real-db.properties
