@@ -2,3 +2,5 @@
 /.gradle/
 /.idea/
 /.note/
+
+application-oauth.properties
